@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project 3</string>
+
+   <string-array name="vacationName">
+       <item>Busan, South Korea</item>
+       <item>Cancun, Mexico</item>
+       <item>Lost Angeles, USA</item>
+       <item>Paris, France</item>
+       <item>Vancouver, Canada</item>
+   </string-array>
+    
+    <string name="permission">Give permission to Kaboom</string>
+
+</resources>

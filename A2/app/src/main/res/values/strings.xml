@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="a2button">Button</string>
+    <string name="a2welcome">Welcome to App A2!</string>
+
+    <string-array name="vacationNamePicked">
+        <item>Busan</item>
+        <item>Cancun</item>
+        <item>Lost Angeles</item>
+        <item>Paris</item>
+        <item>Vancouver</item>
+    </string-array>
+
+</resources>

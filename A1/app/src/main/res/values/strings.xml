@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="welcometxt">Welcome to App A1!</string>
+    <string name="button">Button</string>
+
+    <string-array name="vacationUrl">
+        <item>https://english.busan.go.kr/index</item>
+        <item>https://www.mexicancaribbean.travel/cancun/</item>
+        <item>https://www.discoverlosangeles.com/</item>
+        <item>https://en.parisinfo.com/</item>
+        <item>https://www.tourismvancouver.com/</item>
+    </string-array>
+
+</resources>
