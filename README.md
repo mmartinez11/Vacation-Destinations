@@ -1,5 +1,5 @@
 # Application 1 (A1)
-When the button is pressed the activity checks if the user has provided the permission to a dangerous permission.
+When the button is pressed the activity checks if the user has granted permission to a custom dangerous permission.
 If it does not have permission it will ask for it. When the permission is granted **Application 2** will be lunched.
 Its second activity can only be lunched by **A3**.
 
